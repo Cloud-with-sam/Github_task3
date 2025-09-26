@@ -1,0 +1,6 @@
+# Generic ignores
+node_modules/
+__pycache__/
+*.pyc
+.env
+.vscode/

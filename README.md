@@ -84,3 +84,8 @@ Documentation files
 A working app file (hello.py)
 
 ✔️ GitHub Repo Link: https://github.com/Cloud-with-sam/Github_task3
+
+
+<img width="1918" height="1079" alt="Screenshot 2025-09-26 131219" src="https://github.com/user-attachments/assets/e3ab503b-9108-4ee1-8735-59e5d28623ee" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-25 213849" src="https://github.com/user-attachments/assets/c4536d79-687b-45b9-a04d-b971317c8de5" />
+

@@ -85,5 +85,4 @@ A working app file (hello.py)
 
 ✔️ GitHub Repo Link: https://github.com/Cloud-with-sam/Github_task3
 
-<img width="1918" height="1079" alt="Screenshot 2025-09-25 213155" src="https://github.com/user-attachments/assets/9ba47699-efe7-4447-83f1-73987b7ba4a0" />
 

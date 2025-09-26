@@ -1,4 +1,4 @@
-# DevOps Task 3 – Version-Controlled Project with Git & GitHub
+# DevOps Task 4 – Version-Controlled Project with Git & GitHub
 ## 🚀 Overview
 This repository is part of DevOps Task 3 and demonstrates a basic version-controlled project setup using Git and GitHub. The goal is to showcase:
 
